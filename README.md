@@ -14,8 +14,7 @@
   PC Installed with SCILAB 
 
 # PROGRAM 
-
-## LOW PASS FILTER
+# LOW PASS FILTER
 ```
 clc;
 clear;
@@ -65,8 +64,7 @@ xlabel("Normalized Digital Frequency (×π rad/sample)");
 ylabel("Magnitude (dB)");
 title("Frequency Response of FIR LPF using Rectangular Window (in dB)");
 ```
-
-## HIGH PASS FILTER
+# HIGH PASS FILTER
 ```
 clc;
 clear;
